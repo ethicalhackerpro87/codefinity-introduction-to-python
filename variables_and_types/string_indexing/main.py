@@ -1,9 +1,3 @@
 grocery_item = "Grilled Chicken Salad"
 
-# find the length of the string, which includes spaces 
-length_of_name = len(store_name) # Includes spaces
 
-# Testing
-print("Length of item name:", length_of_item)
-print("First character of each word:", first_char, second_char, third_char)
-print("Last character of each word:", last_char1, last_char2, last_char3)
